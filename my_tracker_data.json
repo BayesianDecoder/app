@@ -1,0 +1,23 @@
+{
+  "2026-01-02": {
+    "workTasks": [],
+    "fitness": {
+      "duration": 0.0,
+      "caloriesBurnt": 0
+    },
+    "faceHealth": {
+      "items": []
+    },
+    "diet": {
+      "entries": [],
+      "totalCalories": 0
+    },
+    "energy": 3,
+    "sleep": {
+      "bedTime": "22:00",
+      "wakeTime": "06:00",
+      "hours": 8.0
+    },
+    "nofapStreak": 0
+  }
+}
